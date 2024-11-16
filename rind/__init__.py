@@ -1,0 +1,1 @@
+from rind import settings

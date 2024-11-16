@@ -1,0 +1,1 @@
+SPIDER_DICTIONARY = "spiders"
